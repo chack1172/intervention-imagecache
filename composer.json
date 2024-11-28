@@ -1,5 +1,5 @@
 {
-    "name": "intervention/imagecache",
+    "name": "chack1172/intervention-imagecache",
     "description": "Caching extension for the Intervention Image Class",
     "homepage": "https://image.intervention.io",
     "keywords": [
@@ -11,6 +11,10 @@
     ],
     "license": "MIT",
     "authors": [
+        {
+            "name": "Nereo Berardozzi",
+            "email": "chack1172@gmail.com"
+        },
         {
             "name": "Oliver Vogel",
             "email": "oliver@intervention.io",
