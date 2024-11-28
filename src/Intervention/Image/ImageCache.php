@@ -274,6 +274,7 @@ class ImageCache
         }
 
         // append checksum to image
+        // @deprecated
         $this->image->cachekey = $this->checksum();
 
         // clean-up
