@@ -24,8 +24,8 @@
     "require": {
         "php": "^8.2",
         "intervention/image": "~2.2",
-        "illuminate/cache": "~10|~11",
-        "illuminate/filesystem": "~10|~11",
+        "illuminate/cache": "~10|~11|~12",
+        "illuminate/filesystem": "~10|~11|~12",
         "charescape/serialize-closure": "^3.8"
     },
     "require-dev": {
